@@ -19,13 +19,14 @@ The central objective of this project is to find the optimal configuration of lo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/multi-capacity-localization.git
+   git clone https://github.com/Mahmoud9876/locationProblem.git
    ```
 
 2. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   cplex.jar
+   oplall.jar
    ```
 
 3. Run the main program:
