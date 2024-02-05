@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="GUI.SplashPage">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="1234" height="1524"/>
+    </constraints>
+    <properties>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="a85b9" class="javax.swing.JButton" binding="startButton">
+        <constraints border-constraint="South"/>
+        <properties>
+          <background color="-1"/>
+          <borderPainted value="false"/>
+          <foreground color="-1"/>
+          <icon value="Assets/start_1.jpg"/>
+          <iconTextGap value="1"/>
+          <inheritsPopupMenu value="true"/>
+          <maximumSize width="100" height="50"/>
+          <minimumSize width="100" height="50"/>
+          <preferredSize width="100" height="80"/>
+          <selected value="false"/>
+          <text value=""/>
+          <verifyInputWhenFocusTarget value="false"/>
+        </properties>
+      </component>
+      <component id="9e3d0" class="javax.swing.JLabel" binding="imageLabel">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <horizontalAlignment value="0"/>
+          <icon value="Assets/ro.png"/>
+          <iconTextGap value="10"/>
+          <maximumSize width="480" height="300"/>
+          <minimumSize width="480" height="300"/>
+          <opaque value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="bdc8d" class="javax.swing.JLabel" binding="header">
+        <constraints border-constraint="North"/>
+        <properties>
+          <font name="Comic Sans MS"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <text value="Bienvenu dans le solveur du problème de location"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
