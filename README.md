@@ -29,12 +29,6 @@ The central objective of this project is to find the optimal configuration of lo
    oplall.jar
    ```
 
-3. Run the main program:
-
-   ```bash
-   python main.py
-   ```
-
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
